@@ -27,3 +27,4 @@ request.
 **Note:** If you do everything correctly, you won't have to change any
 of the code that constructs the `show` view, only the the route to
 request the data.
+<p data-visibility='hidden'>PHRG Using To Json Lab</p>
